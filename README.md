@@ -2,6 +2,8 @@
 
 A racing prototype developed in **Unreal Engine 5**, designed to experiment with AI and racing mechanics.
 
+💾 **Download the game:** [RaceGame Download](https://alumnosunir-my.sharepoint.com/:u:/r/personal/manuel_garcia379_comunidadunir_net/Documents/RaceGame.zip?csf=1&web=1&e=Ak1FYS)
+
 ## Key Features
 
 - Advanced AI system: AI drives optimally around the track and tries to overtake slower cars.  
@@ -22,4 +24,4 @@ A racing prototype developed in **Unreal Engine 5**, designed to experiment with
 - **Handbrake:** Space / X (PlayStation) / A (Xbox)  
 - **Camera:** Mouse / Right Joystick  
 - **Reset Vehicle:** R / Triangle (PlayStation) / Y (Xbox)  
-- **Return to Main Menu:** Escape / Start Button  
+- **Return to Main Menu:** Escape / Start Button
